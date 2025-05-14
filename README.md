@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/scorzeth-anki-mcp-server-badge.png)](https://mseep.ai/app/scorzeth-anki-mcp-server)
+
 # Anki MCP Server
 
 An MCP server implementation that connects to a locally running Anki, providing card review and creation.
